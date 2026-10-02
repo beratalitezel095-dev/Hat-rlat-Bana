@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hatırla</string>
+    <string name="channel_reminders_name">Hatırlatıcı Bildirimleri</string>
+    <string name="channel_reminders_description">Planlanan hatırlatmalar ve ertelemeler için bildirim kanalı</string>
+    <string name="notification_action_snooze">Ertele</string>
+    <string name="notification_action_done">Tamamlandı</string>
+    <string name="notification_snoozed_format">%1$s - %2$d dakika ertelendi</string>
+</resources>
